@@ -18,4 +18,6 @@ We need to drive through difficult road conditions like rain, night, fog.
 
 We need to talk to leading experts in this area after that to validate existing solutions on the market and define the current status of the self driving cars industry, make some estimates for the future and support the innovation in this area as much as we can.
 
+I would like to invite all the interested auto vendors to take part in this journey.
+
 #AllLivesMatter
